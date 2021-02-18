@@ -11,11 +11,16 @@ try to find a god way, just try... be happy if you help me :)))
 
 try to do it faster
 {
-    first try...\n
+    first try...
+
     N = 10000000
+    
     list size is : 664579 
+
     what formula guess  is : 620420.6846
+
     (list size - formula guess)/N  is : 0.0044
+
 
     real    0m12.495s
     user    0m6.764s
