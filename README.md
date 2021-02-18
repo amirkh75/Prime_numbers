@@ -11,7 +11,7 @@ try to find a god way, just try... be happy if you help me :)))
 
 try to do it faster
 {
-    first try...
+    first try...\n
     N = 10000000
     list size is : 664579 
     what formula guess  is : 620420.6846
