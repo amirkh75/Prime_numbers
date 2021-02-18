@@ -10,6 +10,7 @@ try to find a god way, just try... be happy if you help me :)))
 
 try at different versions
 [
+    
     try to do it faster  v1
     {
         first try...
